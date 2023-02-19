@@ -1,5 +1,7 @@
 # Text-Classficiation-using-NB-LR
 
+This project was done as part of the course CS 6375 Machine Learning at UTDallas 
+
 The notebooks contains implementations of Discrete Naive Bayes, Multinomial Naive Bayes, Logistic Regression with L2 regularization (all from scratch), and an SGDClassifer from scikit-learn for the task of text classification on the ENRON email dataset. 
 
 The DNB model classifies on the bernoulli matrix while the MNB model classifies on the Bag of Words matrix, both of which have been created using CountVectorizer from skearn
